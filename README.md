@@ -10,7 +10,7 @@ Different pieces and programs under development.
 
 <img src="Keyboard_PCBless/3D/Escornabot_PCBless_front.png" width=50%><img src="Keyboard_PCBless/3D/Escornabot_PCBless_back.png" width=50%>
 
-![connections](Keyboard_PCBless/connections/Connections_Keyboard_PCBless.png)
+![connections](Keyboard_PCBless/connections/connections_Keyboard_PCBless.png)
 
 ### [**Wireless Joystick Keyboard**](Wireless_Joystick_Keyboard/)
 
